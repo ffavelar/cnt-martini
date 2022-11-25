@@ -1,0 +1,8 @@
+#include "martini_v2.1_CNP_PEG_PS.itp"
+#include "cnt-12-8-a470-CNP-f11-SNda.itp"
+
+[ system ]
+CARBON NANOTUBE (CNT)
+
+[ molecules ]
+cnt-12-8-f11-SNda	1
